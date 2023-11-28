@@ -164,7 +164,7 @@ export default function Body() {
                 aria-expanded="true"
                 aria-haspopup="true"
               >
-                Explore
+
                 <svg
                   className="-mr-1 h-5 w-5 text-orange-400"
                   viewBox="0 0 20 20"

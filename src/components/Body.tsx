@@ -22,7 +22,7 @@ export default function Body() {
   const [datas] = useState([
     {
       lorem:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, tempora officia iusto, quidem ea culpa error quam perferendis reprehenderit repellendus itaque rem laborum labore dolore cupiditate esse deserunt ipsum temporibus?",
+            "AlgoEXpert /nStock market analysis and algotrading assistant
     },
     {
       lorem:
@@ -107,7 +107,7 @@ export default function Body() {
       >
         <div className=" sm:max-w-[1680px] lg:mx-auto  sm:mx-10">
           <div className="hidden sm:flex justify-center flex-col items-center py-2 sm:flex-row sm:justify-between  capitalize  text-[15px] ">
-            <h1 className="font-bold text-[20px] font-Nosifer ">GPTAI</h1>
+            <h1 className="font-bold text-[20px] font-Nosifer ">GPTHunterPro</h1>
             <ul className="flex flex-col sm:flex-row justify-center items-center space-x-2 font-bold">
               <button
                 type="button"
@@ -187,7 +187,7 @@ export default function Body() {
             <span className="text-white">content licence</span>
           </p>
           <p className="text-[10px] text-orange-400">
-            Free image by <span className="text-white">debannja</span>
+             <span className="text-white"></span>
           </p>
         </div>
       </div>

@@ -22,11 +22,11 @@ export default function Body() {
   const [datas] = useState([
     {
       lorem:
-            "AlgoEXpert /nStock market analysis and algotrading assistant",
+        "AlgoEXpert /nStock market analysis and algotrading assistant",
     },
     {
       lorem:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, tempora officia iusto, quidem ea culpa error quam perferendis reprehenderit repellendus itaque rem laborum labore dolore cupiditate esse deserunt ipsum temporibus?",
+        "Lorem, ipsum dolor sit amet cotrnsectetur adipisicing elit. Dignissimos, tempora officia iusto, quidem ea culpa error quam perferendis reprehenderit repellendus itaque rem laborum labore dolore cupiditate esse deserunt ipsum temporibus?",
     },
     {
       lorem:

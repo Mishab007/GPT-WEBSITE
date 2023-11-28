@@ -145,18 +145,17 @@ export default function Body() {
         <div className="flex flex-row items-center sm:max-w-[1880px] lg:mx-auto justify-center  font-font2">
           <div className="md:w-[1250px]  md:my-28 my-5  md:mx-auto w-[400px] px-10   ">
             <h1 className="text-[20px] font-font8  tracking-wider md:text-[60px] font-bold">
-              The next GPTAI gen is here... explore
+              Welcome to GPTHunterPro - Pioneering CustomGPTs
             </h1>
             <p className="text-[11px] font-font1 tracking-tighter py-3 md:text-[17px] ">
-              over 4.2 million + high quality stock images , videos and music
-              shared by our talented commmunity
+              Discover and integrate bespoke CustomGPTs tailored for innovation in your daily usecases from various creators.
             </p>
             <div className="flex justify-center items-center  backdrop-blur-md  rounded-full mt-5 md:py-2">
               <AiOutlineSearch size={30} className="text-orange-400 ml-2" />
               <input
                 className="rounded-full w-full text-[8px] md:text-[15px] placeholder:text-orange-400 md:w-[700px] px-3 py-2 mx-2"
                 type="text"
-                placeholder="Searc for all Ai in GPTAI "
+                placeholder="Search for customGPTs, insights, and solutions "
               />
               <button
                 type="button"
